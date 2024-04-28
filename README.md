@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # minima
 
 ## Header h2 

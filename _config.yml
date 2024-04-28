@@ -1,2 +1,4 @@
 title: Minima Theme
-theme: jekyll-theme-minimal
+# works: 
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
